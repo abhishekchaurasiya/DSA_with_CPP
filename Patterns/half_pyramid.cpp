@@ -10,7 +10,9 @@ int main()
      * * *
      * * * *
      * * * * *
+
      */
+    
     int ROWS;
     cout << "Enter the rows number:- " << endl;
     cin >> ROWS;
